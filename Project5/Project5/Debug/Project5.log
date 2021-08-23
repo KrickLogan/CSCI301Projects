@@ -1,0 +1,6 @@
+﻿  Application.cpp
+  DLinkedBag.cpp
+  Generating Code...
+Application.obj : error LNK2019: unresolved external symbol "public: __thiscall DLinkedBag<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::DLinkedBag<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >(void)" (??0?$DLinkedBag@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@@QAE@XZ) referenced in function _main
+Application.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall DLinkedBag<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::~DLinkedBag<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >(void)" (??1?$DLinkedBag@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@@UAE@XZ) referenced in function _main
+C:\Users\Logan\source\repos\Project5\Debug\Project5.exe : fatal error LNK1120: 2 unresolved externals

@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\logan\source\repos\project6\project6\calculator.h(21): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\logan\source\repos\project6\project6\linkedstack.h(37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\logan\source\repos\project6\project6\linkedstack.h(38): note: see reference to class template instantiation 'LinkedStack<ItemType>' being compiled
+c:\users\logan\source\repos\project6\project6\linkedstack.cpp(103): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\logan\source\repos\project6\project6\calculator.cpp(41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\logan\source\repos\project6\project6\calculator.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\logan\source\repos\project6\project6\calculator.cpp(57): error C2276: '!': illegal operation on bound member function expression
+c:\users\logan\source\repos\project6\project6\calculator.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\logan\source\repos\project6\project6\calculator.cpp(154): warning C4018: '<': signed/unsigned mismatch
